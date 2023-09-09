@@ -1,0 +1,39 @@
+{
+  "Sales & Marketing": [
+    "Enjoy 10% off — text “CUPCAKE” to [Number] to unlock instant discounts",
+    "Hi there! Thanks for texting us. Use code ”WELCOME” to get 10% off your entire purchase when you order your favorite cupcake from cakes.com.",
+    "HouseholdPro's annual sale is just 12 hours away! Use the code “MEMBER” to enjoy exclusive early access as a text club member.",
+    "We know you love to save big. That's why we're offering a 20% discount on all online orders for beef products. Valid thru 01/01",
+    "Yay! It's another Two for Tuesday. Order a box of candy today and get another one FREE. Hurry now and visit chocolates.com to order. Valid for orders above $20."
+  ],
+  "Order Confirmation": [
+    "Thanks for using the promo code ”NOBIGGIE”. A 10% discount was applied to order #A5124. Your backpack will be delivered on or before 12/12/12.",
+    "Your hotel booking is confirmed. The check-in code is XYZ123 for room number 123. Kindly present your ID at reception on check-in day.",
+    "Your PNR is WE456 for flight EA2222 on Mon., Dec. 12 from XYZ to ABC at 10:00. Your e-ticket has been forwarded to your email. We wish you safe travels!",
+    "Thanks for your order! Visit gift.com/confirm to confirm your shipping address. Also, follow this link to sign up for our email list and enjoy exclusive offers."
+  ],
+  "Customer Service": [
+    "Hi [First name]. It appears there's an issue with your order. We apologize for the mixup, and we're working to resolve it. We'll get back to you once we're done.",
+    "Hello [First name]. Sorry we had to reschedule your shipping. Your new delivery date is 01/01/21 with tracking code ABD458S. Contact us at 88-45-99 if you have further inquiries.",
+    "Hello [First name]. Thanks for contacting OBARIN Gym. Please reply to this message to schedule a consultation with our fitness instructor with the following format: “MM/DD/YY” “TIME.”",
+    "Hello [First name]. Your complaint with ticket number ABC215 has been resolved. We appreciate your patience. Kindly let us know if you'd need anything else."
+  ],
+  "Payment reminders": [
+    "Hello Barry. Your quarterly subscription expires 02/07. Kindly visit our Broad Street gym to renew or go online to gymnasium.com.",
+    "Never get caught off guard. Renew your vehicle insurance policy before 01/01 to enjoy a 5% discount. Visit policy.com today.",
+    "Hi Nick. This is to remind you about the $75 minimum payment on your credit card ending in XXXX. Payment is due on 01/01. Pls visit order.com to make your payment.",
+    "Hello Dave. Your subscription expires 05/06. Text “SUB” to 7788 to activate the same plan and rollover unused coupons. To unsubscribe, text “UNSUB” to 7788."
+  ],
+  "Lead Engagement": [
+    "Want to receive the reading recommendations for your favorite authors? Send “BOOKHUB” to 5331 to join our subscribers list. Msg or data rates may apply.",
+    "Our daily weight loss tips can help you stay on track with your fitness goals. Reply “YES” for access to actionable tips from industry experts.",
+    "Take a giant step towards becoming the best version of yourself. Text “I WANT” to 787898 to receive daily motivational quotes and life hacks.",
+    "Hi Pauline. Thanks for joining our text club. Send “COUPON” to 7555 to enjoy 10% off your next purchase as a welcome bonus. Offer valid till 05/05."
+  ],
+  "Exclusive Offers": [
+    "Dear Marie. We appreciate your loyalty over the years and we'd like to thank you with this $50 voucher to purchase any item of your liking. Valid till 10/10/21",
+    "Dear PREMIUM SUBSCRIBER. It's been 12 months of consistently reading from our platform. To celebrate your anniversary, next month's subscription is on us!",
+    "Dear VIP customer, show this message to the stylist to receive the next hair cut FREE! Thanks for trusting the brand. Offer valid thru 12/12/21.",
+    "Our product launch is 05/06! Text club members get to enjoy a front seat plus 10% discount on purchases. Visit lunch.com to reserve your spot."
+  ]
+}
